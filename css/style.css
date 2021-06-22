@@ -1,0 +1,212 @@
+.sprite {
+    background-image: url(asset/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-carousel__btn {
+    width: 90px;
+    height: 45px;
+    background-position: 0 0;
+}
+
+.sprite-carousel__btn__hover__left {
+    width: 22px;
+    height: 44px;
+    background-position: 0 -45px;
+}
+
+.sprite-carousel__btn__hover__right {
+    width: 22px;
+    height: 44px;
+    background-position: 0 -89px;
+}
+
+.sprite-carousel__nav__btn {
+    width: 27px;
+    height: 90px;
+    background-position: 0 -133px;
+}
+
+.sprite-carousel__pic__1 {
+    width: 940px;
+    height: 360px;
+    background-position: 0 -223px;
+}
+
+.sprite-carousel__pic__2 {
+    width: 940px;
+    height: 360px;
+    background-position: 0 -583px;
+}
+
+.sprite-carousel__pic__3 {
+    width: 940px;
+    height: 360px;
+    background-position: 0 -943px;
+}
+
+.sprite-carousel__pic__4 {
+    width: 940px;
+    height: 360px;
+    background-position: 0 -1303px;
+}
+
+.sprite-carousel__pic__5 {
+    width: 940px;
+    height: 360px;
+    background-position: 0 -1663px;
+}
+
+.sprite-carousel__pic__6 {
+    width: 940px;
+    height: 360px;
+    background-position: 0 -2023px;
+}
+
+.sprite-facebook {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -2383px;
+}
+
+.sprite-flag__alegerie {
+    width: 281px;
+    height: 140px;
+    background-position: 0 -2407px;
+}
+
+.sprite-flag__brezil {
+    width: 281px;
+    height: 140px;
+    background-position: 0 -2547px;
+}
+
+.sprite-flag__fr {
+    width: 281px;
+    height: 140px;
+    background-position: 0 -2687px;
+}
+
+.sprite-logo {
+    width: 400px;
+    height: 120px; /* 131px -11px for hide text*/
+    background-position: 0 -2827px;
+}
+
+.sprite-logo__article__fire {
+    width: 82px;
+    height: 105px;
+    background-position: 0 -2958px;
+}
+
+.sprite-logo__article__pawn {
+    width: 74px;
+    height: 94px;
+    background-position: 0 -3063px;
+}
+
+.sprite-logo__article__tente {
+    width: 97px;
+    height: 103px;
+    background-position: 0 -3157px;
+}
+
+.sprite-twitter {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -3260px;
+}
+
+.sprite-whyUs__logo__bousolle {
+    width: 98px;
+    height: 103px;
+    background-position: 0 -3284px;
+}
+
+.sprite-whyUs__logo__map {
+    width: 113px;
+    height: 94px;
+    background-position: 0 -3387px;
+}
+
+.sprite-whyUs__logo__velo {
+    width: 108px;
+    height: 73px;
+    background-position: 0 -3481px;
+}
+
+body{
+  background-color: #bcffff;
+}
+
+.navigation{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.navigation__menu{
+  background-color: #9e90fe;
+  border: 1px black solid;
+}
+
+li, ul {
+  list-style-type: none;
+}
+/*
+nav .nav__bar ul{
+
+}
+
+nav ul li{
+    float: left;
+    width: 25%;
+    text-align: center;
+    position: relative;
+}
+
+nav .nav__bar a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 10px 0px;
+}
+
+nav .nav__bar a:hover{
+    color: #e72f32;
+}
+
+nav .sous{
+    display: none;
+    background-color: white;
+    width: 100%;
+    z-index: 1000;
+
+}
+nav .nav__bar > ul li:hover .sous{
+    display: block;
+
+}
+.sous li{
+    float: none;
+    width: 100%;
+    text-align: left;
+}
+.sous a{
+    padding: 10px;
+    border-bottom: 1px solid black;
+    background-color: #cbcbcb;
+}
+.sous a:hover{
+    background-color: white;
+}
+.deroulant > a::after {
+    content:"";
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+*/
